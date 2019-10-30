@@ -15,7 +15,7 @@ use app\components\tgtools\speller\TGS;
 
 string TGS::spell($value, $item, $format)
 
-$value перменная любого типа
+$value переменная любого типа
 
 $item исчисляемое, необязательный параметр
 
