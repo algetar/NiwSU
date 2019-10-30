@@ -1,7 +1,7 @@
 <?php
 
 namespace app\models;
-use app\tgtools\speller\TGS;
+use app\components\tgtools\speller\TGS;
 
 /**
  * Description of Speller

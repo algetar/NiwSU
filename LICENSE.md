@@ -1,4 +1,4 @@
-    Numbers in words utility NIWU
+    Number spelling (in words) Utility NiwSU
     Copyright (C) 2019  Gennady Tatarnikov <ta_gena@mail.ru>
 
     This program is free software: you can redistribute it and/or modify
