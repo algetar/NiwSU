@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Number spelling (in words) Utility NiwSU</h1>
+    <h1 align="center">Number (in words) spelling Utility NiwSU</h1>
     <br>
 </p>
 
